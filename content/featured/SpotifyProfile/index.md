@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Global Landing Page'
+cover: './glob1.webp'
+github: 'https://github.com/ayush-p28/Baderia_Global_Engineering_College_Jabalpur'
+external: 'https://ayush-p28.github.io/Baderia_Global_Engineering_College_Jabalpur/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HTML
+  - CSS
+  - Bootstrap
+  - JavaScript
+  - Owl carousel
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This is my college website landing page.. I had recreated this page to make the look more clear and vibrant and i have reduced the page size of this page to [only 2mb] and loading time to [2secs].

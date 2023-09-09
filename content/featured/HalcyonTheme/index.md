@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Freelancing WebApp'
+cover: './demo.png'
+github: 'https://github.com/ayush-p28/Freeland'
+external: 'https://ayush-p28.github.io/my-portfolio/free.html'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - HTML,CSS,JS
+  - Bootstrap
+  - MVC Architecture
+  - Advance Java
+  - MySQL
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This [Freelancing webApp] project is my [First] project which took [10hrs] per/day for [28 dyas]. Created a platform that connects freelancers and clients directly, freelancers to sell their services & skills online, and for clients to hire freelancers with minimum bids.
+ Basically This app contains 2 panels for [Freelancer], and for [users].
