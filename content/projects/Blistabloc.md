@@ -1,14 +1,12 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: '10-10-2022'
+title: 'AWS Academy Graduate'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://www.hackerrank.com/certificates/641d68adcb57'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - AWS
+company: 'Upstatement'
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Got TheTraining At College Passed AWS Academy Graduate Test.

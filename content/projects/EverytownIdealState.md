@@ -1,13 +1,14 @@
 ---
-date: '2022-01-20'
-title: 'Everytown Gun Law Rankings'
+date: '2023'
+title: 'Calendar'
 github: ''
-external: 'https://everytownresearch.org/rankings/'
+external: 'https://akp-calendar.web.app/'
 tech:
-  - WordPress
-  - Timber
-  - PHP
-  - Airtable API
+  - HTML
+  - CSS
+  - JavaScript
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
+
+Created this at the time of learning WEB- DEVELOPMENT to polish my skills , And deployed on google firebase

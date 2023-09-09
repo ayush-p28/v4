@@ -1,14 +1,12 @@
 ---
-date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
+date: '10-10-2022'
+title: 'CSS Hackerrank'
+github: 'https://www.hackerrank.com/certificates/641d68adcb57'
 external: ''
 tech:
-  - React
-  - Firebase
-  - Spotify API
+  - CSS
 company: HackBeanpot 2017
 showInProjects: false
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+Passed Introduction to Programming Using HTML and CSS Certificate Exam Conducted By Hackerrank

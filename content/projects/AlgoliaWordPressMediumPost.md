@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2023'
+title: 'Calculator'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://portfolio-parts.web.app/'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - HTML
+  - CSS
+  - JavaScript
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Created this at the time of learning WEB- DEVELOPMENT , And deployed on google firebase

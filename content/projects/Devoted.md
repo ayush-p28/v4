@@ -1,14 +1,14 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
+date: 'April 23'
+title: 'Ecommerce- DevDash'
 github: ''
-external: 'https://www.devoted.com/'
+external: 'https://ayush-p28.github.io/BinaryBrains-1/'
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
+  - HTML
+  - JavaScript
+  - Bootstrap
 company: 'Upstatement'
 showInProjects: false
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+Created Index page using HTML, CSS, JS, Bootstrap in DEVDASH College competition
